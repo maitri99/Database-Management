@@ -1,3 +1,3 @@
-# Database-Management
+# Database Systems
 
 Projects containing SQL query, triggers, stored procedures...
